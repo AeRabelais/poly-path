@@ -1,4 +1,4 @@
-# Sobernost
+# Sobornost
 
 Learning is Forever.
 
