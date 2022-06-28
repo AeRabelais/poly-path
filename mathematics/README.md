@@ -16,7 +16,7 @@ Honestly, Khan Academy that shit.
 ## Recommended Exercises and References 
 
 ### Linear Algebra (David C. Lay, 5th Edition) Exercises
-Recommended exercises are described here originally, and are only copied here in case the link goes dead at any point.
+Recommended exercises are [described here originally](https://math.dartmouth.edu/~m22x17/sched.html), and are only copied here in case the link goes dead at any point.
 | Chapter | Recommended Exercises | Solutions |
 |:---|:---|:---|
 | Section 1.1 | 9, 11, 13, 21, 27 | hyper-link-to-solutions-pdf-in-the-math-repo | 
