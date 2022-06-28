@@ -11,6 +11,11 @@ Honestly, Khan Academy that shit.
 | [Linear Algebra, 5E., David C. Lay](https://www.cartagena99.com/recursos/alumnos/temarios/210609113348-Linear%20Algebra%20and%20its%20applications.pdf) | Linear Algebra | Book | [Recommended Exercises](#linear-algebra-david-c-lay-5th-edition-exercises) |
 | [Linear Algebra Playlist](https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86) | Linear Algebra | Videos | [Recommended Exercises](#linear-algebra-david-c-lay-5th-edition-exercises) |
 
+## Contiguous Sources (Documentation + Papers)
+
+## Recommended Exercises, and References 
+
+
 ### Linear Algebra (David C. Lay, 5th Edition) Exercises
 Recommended exercises are described here originally, and are only copied here in case the link goes dead at any point.
 | Chapter | Recommended Exercises | Solutions |
