@@ -2,4 +2,4 @@
 
 Learning is Forever.
 
-A resource dump for information on various fields of interest.
+Curating selected bibliographies on various topics of interest.
