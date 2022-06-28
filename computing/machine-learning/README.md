@@ -37,7 +37,9 @@
 | [StatQuest Machine Learning Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) | General ML | Videos | Succint, clear descriptions of introductory ML and statistical concepts. | When you can't yet clearly explain a topic in your own words or images.|
 
 ## Sub-Fields of Interest
-...
+| Field | Directory | Description | 
+|:---|:---|:---|
+| Computer Vision | link-to-directory | Description of computer vision. |
 
 TODO:
 - [X] move the linear algebra exericses to the math directory
