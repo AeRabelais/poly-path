@@ -13,7 +13,7 @@ Honestly, Khan Academy that shit.
 
 ## Contiguous Sources (Documentation + Papers)
 
-## Recommended Exercises, and References 
+## Recommended Exercises and References 
 
 ### Linear Algebra (David C. Lay, 5th Edition) Exercises
 Recommended exercises are described here originally, and are only copied here in case the link goes dead at any point.

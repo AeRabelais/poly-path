@@ -24,7 +24,7 @@
 
 ## Contiguous Sources (Documentation + Papers)
 
-## Recommended Exercises, and References 
+## Recommended Exercises and References 
 
 ### Hands-On Machine Learning Chapter Projects
 | Chapter | Description | Data | Other Materials |
