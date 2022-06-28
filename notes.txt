@@ -15,12 +15,49 @@
 
 --- using princeton courses and text for original sources 
     [princeton grad program: https://philosophy.princeton.edu/graduate/courses / princeton undergrad program: https://philosophy.princeton.edu/undergraduate/general-information]
+    https://ua.princeton.edu/academic-units/department-philosophy
+    https://gradschool.princeton.edu/academics/fields-study/philosophy
+---may possibly use nyu grad/undergrad philosophy program as well
 --- check the college programs below for more input on environmental philosophy resources:
     https://philosophy.colostate.edu
     https://wp.nyu.edu/centerforbioethics/
     https://liberalarts.tamu.edu/philosophy/
+--- https://www.reddit.com/r/philosophy/wiki/readinglist
+--- https://www.reddit.com/r/logic/wiki/index
+--- maybe use NYU for philosophy of mind curriculum
 -- black american canon: refer to the bookmarked google drive folder
 
+--- philosophy of mind
+    1. https://www.nyu.edu/content/dam/nyu/globalPrgms/documents/paris/academics/Syllabi/Fall2018Accessible/Syl_Paris_PHIL-UA9005%20001_De%20Vignemont_Fall%202018.pdf
+    2. https://www.nyu.edu/gsas/dept/philo/courses/Consciousness_2020/#Requirements
+    3. https://martinabreu.net/teaching/philmind/Syllabus.pdf
+    4. http://www-personal.umich.edu/~jdmitrig/Logic2015/2015%20SP%20Logic%20Syllabus%202.pdf 
+    5. http://paulegre.free.fr/Teaching/NYUPHILUA72/index.html
+    6. https://www.nyu.edu/content/dam/nyu/globalPrgms/documents/paris/academics/Syllabi/Spring2019Accessible/Syl_Paris_PHIL-UA9085_Crespo_Spring2019.pdf
+    7. http://alshanetsky.com/wp-content/uploads/2018/10/CogSciSyllabus.pdf
+    8. http://www.jimpryor.net/teaching/courses/topics/index.html
+    9. http://jdh.hamkins.org/logic-for-philosophers-nyu-spring-2015-phil-ga-1003/
+    10. https://as.nyu.edu/content/dam/nyu-as/faculty/documents/GraduateMetaphysicsSyllabus2013.pdf
+    11. https://www.nyu.edu/gsas/dept/philo/courses/mind2015/
+    12. https://www.nyu.edu/gsas/dept/philo/courses/philmind2020/
+    13. Introduction
+        Jaegwon Kim. Philosophy of Mind (2011)
+        Paul Churchland. Matter and Consciousness : A Contemporary Introduction to the Philosophy of Mind (1988).
+        Tim Crane. *The Mechanical Mind: A Philosophical Introduction to Minds, Machines, and Mental Representation (2003).
+        David Chalmers' Philosophy of Mind: Current and Contemporary Readings (2002) is a good (and very large) sourcebook and includes excerpts from a number of the other important works listed here.
+        
+        Intentionality and Mental Representation
+        Robert Cummins. Meaning and Mental Representation (1989).
+        Jerry Fodor. "Fodor's Guide to Mental Representation" Mind 373.94 (1985), 76-100
+        Stephen Stich and Ted A. Warfield, eds. Mental Representation: A Reader (1994).
+        William Ramsey. Representation Reconsidered (2006).
+        Jerry Fodor. The Language of Thought (1980).
+        
+        Consciousness and Qualia
+        David Chalmers. The Conscious Mind (1996).
+        Daniel Dennett. Consciousness Explained (1991).
+        Thomas Nagel. "What is it like to be a Bat?" The Philosophical Review 83.4 (1974), 435-50.
+        Frank Jackson. "Epiphenomenal Qualia" The Philosophical Quarterly 32.127 (1982), 127-36.
 
 ->> literature
 
