@@ -12,9 +12,10 @@
 - urban planning
 
 ->> philosophy
-->> using princeton courses and text for original sources 
+
+--- using princeton courses and text for original sources 
     [princeton grad program: https://philosophy.princeton.edu/graduate/courses / princeton undergrad program: https://philosophy.princeton.edu/undergraduate/general-information]
-->> check the college programs below for more input on environmental philosophy resources:
+--- check the college programs below for more input on environmental philosophy resources:
     https://philosophy.colostate.edu
     https://wp.nyu.edu/centerforbioethics/
     https://liberalarts.tamu.edu/philosophy/
