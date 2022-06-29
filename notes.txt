@@ -24,40 +24,86 @@
     https://liberalarts.tamu.edu/philosophy/
 --- https://www.reddit.com/r/philosophy/wiki/readinglist
 --- https://www.reddit.com/r/logic/wiki/index
+https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics?wssl=1
 --- maybe use NYU for philosophy of mind curriculum
 -- black american canon: refer to the bookmarked google drive folder
 
+[[ GENERAL PHILOSOPHY]]
+- introduction (level 001)
+    - think by simon blackburn (general)
+    - beginning logic by john lemmon (logic)
+    - Immanuel Kant, Groundwork of the Metaphysics of Morals (moral philosophy)
+    - John Stuart Mill, ‘On Liberty’ and other writings (moral philosophy)
+    - Plato, Phaedo (general)
+    - Aristotle, Poetics (general)
+    - Descartes, Meditations (general)
+    - Russell, The Problems of Philosophy (general)
+    - Wm. James, The Will to Believe (general)
+    - Epistemology: A Contemporary Introduction to the Theory of Knowledge, by Robert Audi (Epistemology)
+    - Epistemology by Ernest Sosa (Epistemology)
+    - on theory of knowledge: https://www.princeton.edu/~adame/teaching/PHI313_F2017/
+
+[[PHILOSOPHY OF SCIENCE]]
+- general
+    - http://bweslake.org/teaching/2014/science
+    - Samir Okasha, Philosophy of Science: A Very Short Introduction
+    - Peter Godfrey-Smith, Theory and Reality: An Introduction to the Philosophy of Science
+    - The Aim and Structure of Physical Theory
+    - Karl Popper Logic of Scientific Discovery
+    - Thomas Kuhn’s The Structure of Scientific Revolutions
+    - Feyerband's Against Method
+    - Decision Theory readings: https://www.princeton.edu/~adame/teaching/PHI533_S2014/
+
+- philosophy of physics
+    - Maudlin, Tim. 2012. Philosophy of Physics: Space and Time
+    - Huggett, Nick, ed. 1999. Space from Zeno to Einstein
+    - readings: https://wp.nyu.edu/dhoek/wp-content/uploads/sites/5087/2016/09/Syllabus-physics.pdf
+    - Quantum Mechanics and Experience By David Z. Albert
+    - Philosophy of Physics: Quantum Theory By Tim Maudlin
+    - Philosophical Concepts in Physics: The Historical Relation Between Philosophy and Scientific Theories
+    - Speakable and Unspeakable in Quantum Mechanics: Collected Papers on Quantum Philosophy
+    - Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics
+    - What Is Real?: The Unfinished Quest for the Meaning of Quantum Physics
+    - Quantum Dialogue: The Making of a Revolution
+
+- ... of mathematics
+
+- ... of biology 
+
+- ... computing
+
+
+ 
+
+[[PHILOSOPHY OF MIND]]
+
 --- philosophy of mind
-    1. https://www.nyu.edu/content/dam/nyu/globalPrgms/documents/paris/academics/Syllabi/Fall2018Accessible/Syl_Paris_PHIL-UA9005%20001_De%20Vignemont_Fall%202018.pdf
+    - Daniel Dennett. "The Part of Cognitive Science That is Philosophy." Topics in Cognitive Science 1 (2009), 231-236.
+    - https://academic.oup.com/mind/article/LIX/236/433/986238
+    - https://www.sfu.ca/~jillmc/JacksonfromJStore.pdf
+    - William Bechtel and Adele Abrahamsen. Connectionism and the Mind: Parallel Processing, Dynamics, and Evolution in Networks (2002).
+    - https://www.google.com/search?client=safari&rls=en&q=Frederick+Adams+and+Kenneth+Aizawa.+The+Bounds+of+Cognition+(2010).&ie=UTF-8&oe=UTF-8
+    - Alva Noë. Out of Our Heads: Why You Are Not Your Brain and Other Lessons From the Biology of Consciousness (2009).
+    - https://www.google.com/search?client=safari&rls=en&q=Mark+Rowlands.+The+New+Science+of+the+Mind%3A+From+Extended+Mind+to+Embodied+Phenomenology+(2010).&ie=UTF-8&oe=UTF-8
+    - Jaegwon Kim. Philosophy of Mind (2011)
+    - David Chalmers' Philosophy of Mind: Current and Contemporary Readings (2002) is a good (and very large) sourcebook and includes excerpts from a number of the other important works listed here.
+    - William Ramsey. Representation Reconsidered (2006).
+    - David Chalmers. The Conscious Mind (1996).
+    - Daniel Dennett. Consciousness Explained (1991).
+    - Thomas Nagel. "What is it like to be a Bat?" The Philosophical Review 83.4 (1974), 435-50.
+    - Frank Jackson. "Epiphenomenal Qualia" The Philosophical Quarterly 32.127 (1982), 127-36.
+    - readings: https://perception.yale.edu/IntroCogSci/
+    - Cognitive Science: An Introduction to the Science of the Mind,
+    - Clark Glymour (2015) Thinking Things Through, An Introduction to Philosophical Issues and Achievements
+    - https://www.amazon.com/dp/0691129088/ref=sspa_dk_detail_2?psc=1&pd_rd_i=0691129088&pd_rd_w=2GIeQ&content-id=amzn1.sym.c201ea52-e52a-4b28-967b-9c2cae823bd5&pf_rd_p=c201ea52-e52a-4b28-967b-9c2cae823bd5&pf_rd_r=0H9PVD1B1Q4NJFAG036Z&pd_rd_wg=oqSWv&pd_rd_r=05796c89-856c-4d81-997f-08b7b9c1e4fc
+    - Games and Decisions: Introduction and Critical Survey 
+
     2. https://www.nyu.edu/gsas/dept/philo/courses/Consciousness_2020/#Requirements
     3. https://martinabreu.net/teaching/philmind/Syllabus.pdf
-    4. http://www-personal.umich.edu/~jdmitrig/Logic2015/2015%20SP%20Logic%20Syllabus%202.pdf 
-    5. http://paulegre.free.fr/Teaching/NYUPHILUA72/index.html
     6. https://www.nyu.edu/content/dam/nyu/globalPrgms/documents/paris/academics/Syllabi/Spring2019Accessible/Syl_Paris_PHIL-UA9085_Crespo_Spring2019.pdf
     7. http://alshanetsky.com/wp-content/uploads/2018/10/CogSciSyllabus.pdf
-    8. http://www.jimpryor.net/teaching/courses/topics/index.html
-    9. http://jdh.hamkins.org/logic-for-philosophers-nyu-spring-2015-phil-ga-1003/
-    10. https://as.nyu.edu/content/dam/nyu-as/faculty/documents/GraduateMetaphysicsSyllabus2013.pdf
     11. https://www.nyu.edu/gsas/dept/philo/courses/mind2015/
     12. https://www.nyu.edu/gsas/dept/philo/courses/philmind2020/
-    13. Introduction
-        Jaegwon Kim. Philosophy of Mind (2011)
-        Paul Churchland. Matter and Consciousness : A Contemporary Introduction to the Philosophy of Mind (1988).
-        Tim Crane. *The Mechanical Mind: A Philosophical Introduction to Minds, Machines, and Mental Representation (2003).
-        David Chalmers' Philosophy of Mind: Current and Contemporary Readings (2002) is a good (and very large) sourcebook and includes excerpts from a number of the other important works listed here.
-        
-        Intentionality and Mental Representation
-        Robert Cummins. Meaning and Mental Representation (1989).
-        Jerry Fodor. "Fodor's Guide to Mental Representation" Mind 373.94 (1985), 76-100
-        Stephen Stich and Ted A. Warfield, eds. Mental Representation: A Reader (1994).
-        William Ramsey. Representation Reconsidered (2006).
-        Jerry Fodor. The Language of Thought (1980).
-        
-        Consciousness and Qualia
-        David Chalmers. The Conscious Mind (1996).
-        Daniel Dennett. Consciousness Explained (1991).
-        Thomas Nagel. "What is it like to be a Bat?" The Philosophical Review 83.4 (1974), 435-50.
-        Frank Jackson. "Epiphenomenal Qualia" The Philosophical Quarterly 32.127 (1982), 127-36.
 
 ->> literature
 
@@ -66,3 +112,13 @@
 ->> physics
 
 ->> biology 
+
+For more readings:
+
+{GENERAL PHILOSOPHY}
+- https://scholar.princeton.edu/sites/default/files/jfrick/files/phi_202_syllabus_2020_aug_25.pdf
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj5_7SRydH4AhUWKkQIHcz4CqUQFnoECA8QAQ&url=https%3A%2F%2Fmoodle.cornellcollege.edu%2Ffetch%2Findex.php%3Ffile%3D222f5dea30da3f0a788a88851eff75d38f04a7cd%26filename%3DPHI%2B202%2BSyllabus%2Bfall%2B21.pdf%26mime%3Dapplication%252Fpdf&usg=AOvVaw3GGhCsOPzJzbMQIw8krkFE (you downloaded this on your computer, accidentally)
+- https://www.routledge.com/Metaethics-A-Contemporary-Introduction/Roojen/p/book/9780415894425
+-https://www.google.com/search?client=safari&rls=en&q=Metaphysics%3A+The+Big+Questions&ie=UTF-8&oe=UTF-8
+- Metaphysics by Peter van Inwagen
+-     10. https://as.nyu.edu/content/dam/nyu-as/faculty/documents/GraduateMetaphysicsSyllabus2013.pdf
