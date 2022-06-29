@@ -8,7 +8,7 @@
 - architecture fundamentals
 - eco-friendly and sustainable design
 - interior design
-- environmental pl anning
+- environmental planning
 - urban planning
 
 ->> philosophy
@@ -104,7 +104,7 @@ https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics?wssl=1
     7. http://alshanetsky.com/wp-content/uploads/2018/10/CogSciSyllabus.pdf
     11. https://www.nyu.edu/gsas/dept/philo/courses/mind2015/
     12. https://www.nyu.edu/gsas/dept/philo/courses/philmind2020/
-
+ 
 ->> literature
 
 ->> mathematics
