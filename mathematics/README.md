@@ -20,3 +20,8 @@ Recommended exercises are [described here originally](https://math.dartmouth.edu
 | Chapter | Recommended Exercises | Solutions |
 |:---|:---|:---|
 | Section 1.1 | 9, 11, 13, 21, 27 | hyper-link-to-solutions-pdf-in-the-math-repo | 
+
+### External References and Aids
+| Source | Theme(s) | Type | Description | When to Use
+|:---|:---|:---|:---|:---|
+| [3Blue1Brown Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Linear Algebra| Videos | Beautiful visualization of fundamental topics in Linear Algebra.| I'd watch these after watching the Hambline videos.|
